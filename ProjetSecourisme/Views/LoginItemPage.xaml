@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:models="clr-namespace:ProjetSecourisme.Models"
+             xmlns:views="clr-namespace:ProjetSecourisme.Views"
+             x:Class="ProjetSecourisme.Views.LoginItemPage"
+             x:DataType="models:Login"
+             Title="{Binding Website}">
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="10" VerticalOptions="StartAndExpand">
+
+            <Label Text="identifiant"  />
+            <Entry Text="{Binding Website}" />
+
+            <Label Text="Nom d'utilisateur" />
+            <Entry Text="{Binding Username}" />
+
+            <Label Text="Mot de passe" />
+            <Entry Text="{Binding Password}" IsPassword="True" Focused="OnPasswordFocused" Unfocused="OnPasswordFocused" />
+
+            <Button Text="Enregistrer" Clicked="OnSaveClicked" />
+
+            <Button Text="Annuler" Clicked="OnCancelClicked" />
+
+            <Button Text="Supprimer" BackgroundColor="DarkRed" IsVisible="{Binding Id}" Clicked="OnDeleteClicked" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

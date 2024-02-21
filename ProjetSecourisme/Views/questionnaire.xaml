@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjetSecourisme.Views.questionnaire"
+             Title="questionnaire">
+    <VerticalStackLayout>
+        <Label 
+            Text="Questionnaire!"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" FontSize="40"/>
+        <Button Text="Malaise" FontSize="30" BackgroundColor="IndianRed" Margin="30"  ></Button>
+        <Button Text="HemoExt" FontSize="30" BackgroundColor="IndianRed" Margin="30" ></Button>
+        <Button Text="Plaies" FontSize="30" BackgroundColor="IndianRed" Margin="30" ></Button>
+        <Button Text="Brulures" FontSize="30" BackgroundColor="IndianRed" Margin="30" ></Button>
+        <Button Text="Fractures" FontSize="30" BackgroundColor="IndianRed" Margin="30"></Button>
+
+
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:models="clr-namespace:ProjetSecourisme.Models"
+                          xmlns:views="clr-namespace:ProjetSecourisme.Views"
+
+             x:Class="ProjetSecourisme.Views.SignupPage"
+             x:DataType="views:SignupPage"
+             Title="SignupPage">
+    
+
+    <VerticalStackLayout>
+        <VerticalStackLayout Padding="20" Spacing="10" VerticalOptions="StartAndExpand">
+
+            <!--<Label Text="id"  />
+            <Entry Text="{Binding Id_S}" />
+
+            <Label Text="Nom d'utilisateur" />
+            <Entry Text="{Binding Name}" />
+            <Label Text="Adress" />
+            <Entry Text="{Binding Adress}" />
+
+            <Label Text="Date naissance" />
+            <Entry Text="{Binding Datenaissance}" />
+
+            <Label Text="Email" />
+            <Entry Text="{Binding Email}" />
+
+            <Label Text="Mot de passe" />
+            <Entry Text="{Binding Mdp}" />
+
+            <Button Text="Enregistrer" Clicked="Save" />-->
+
+
+
+
+
+        </VerticalStackLayout>
+
+    </VerticalStackLayout>
+</ContentPage>

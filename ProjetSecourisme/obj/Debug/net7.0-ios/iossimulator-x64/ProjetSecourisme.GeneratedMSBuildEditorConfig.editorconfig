@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjetSecourisme
+build_property.ProjectDir = C:\Users\ASUS\source\repos\ProjetSecourisme\ProjetSecourisme\
+
+[C:/Users/ASUS/source/repos/ProjetSecourisme/ProjetSecourisme/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetSecourisme.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/ASUS/source/repos/ProjetSecourisme/ProjetSecourisme/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetSecourisme.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/ASUS/source/repos/ProjetSecourisme/ProjetSecourisme/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetSecourisme.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/ASUS/source/repos/ProjetSecourisme/ProjetSecourisme/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetSecourisme.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/ASUS/source/repos/ProjetSecourisme/ProjetSecourisme/Views/Alerte.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetSecourisme.Views.Alerte.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Alerte.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Alerte.xaml
+
+[C:/Users/ASUS/source/repos/ProjetSecourisme/ProjetSecourisme/Views/Documentation.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetSecourisme.Views.Documentation.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Documentation.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Documentation.xaml
+
+[C:/Users/ASUS/source/repos/ProjetSecourisme/ProjetSecourisme/Views/Home.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetSecourisme.Views.Home.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Home.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Home.xaml
+
+[C:/Users/ASUS/source/repos/ProjetSecourisme/ProjetSecourisme/Views/LoginItemPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetSecourisme.Views.LoginItemPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoginItemPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoginItemPage.xaml
+
+[C:/Users/ASUS/source/repos/ProjetSecourisme/ProjetSecourisme/Views/LoginListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetSecourisme.Views.LoginListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoginListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoginListPage.xaml
+
+[C:/Users/ASUS/source/repos/ProjetSecourisme/ProjetSecourisme/Views/questionnaire.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetSecourisme.Views.questionnaire.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\questionnaire.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\questionnaire.xaml
+
+[C:/Users/ASUS/source/repos/ProjetSecourisme/ProjetSecourisme/Views/respiration.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetSecourisme.Views.respiration.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\respiration.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\respiration.xaml
+
+[C:/Users/ASUS/source/repos/ProjetSecourisme/ProjetSecourisme/Views/SignInPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetSecourisme.Views.SignInPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SignInPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SignInPage.xaml
+
+[C:/Users/ASUS/source/repos/ProjetSecourisme/ProjetSecourisme/Views/SignUpPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetSecourisme.Views.SignUpPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SignUpPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SignUpPage.xaml
